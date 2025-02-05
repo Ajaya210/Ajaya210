@@ -1,13 +1,12 @@
 ### Hi there, I'm Ajaya! 👋
 
 🌱 **About Me:**
-- 💻 Power BI Developer and Data Analyst with over a year of experience in data visualization, business intelligence, and reporting.
+- 💻 Data Scientist and Data Analyst with over a year of experience in data visualization, business intelligence, and reporting.
 - 🎓 Bachelor Degree in Economics (Honours) from Rajdhani College.
 - 🌐 Passionate about turning raw data into meaningful insights, improving reporting processes, and supporting data-driven decision-making.
 
 🌟 **Skills:**
-- **Languages:** Python, SQL, JavaScript, Java, C++
-- **Web Development:** HTML, CSS, React, Node.js, Express.js
+- **Languages:** Python, SQL
 - **Databases:** MySQL, MongoDB, PostgreSQL
 - **Business Intelligence & Reporting:** Power BI (DAX, Power Query, Paginated Reports), Tableau, Excel (Advanced Functions, Pivot Tables)
 - **Data Analysis & ETL:** Pandas, NumPy, Matplotlib, Seaborn
