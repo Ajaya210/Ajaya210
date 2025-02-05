@@ -1,35 +1,18 @@
-### Hi there, I'm Ajaya! 👋
+<h1 align="center">Hi 👋, I'm Ajaya Kumar Pradhan</h1>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
-🌱 **About Me:**
-- 💻 Data Analyst and Data Scientist with hands-on experience in data modeling, business intelligence, and statistical analysis.
-- 🎓 Bachelor Degree in Economics (Honours) from Rajdhani College.
-- 🌐 Passionate about leveraging data to drive business performance and support data-driven decision-making.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaya210&label=Profile%20views&color=0e75b6&style=flat" alt="ajaya210" /> </p>
 
-🌟 **Skills:**
-- **Data Analysis & Machine Learning:** SQL, Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
-- **Data Visualization:** Tableau, Power BI, Excel
-- **Database Management:** MySQL, PostgreSQL
-- **ETL & Data Processing:** Data Cleaning, Data Transformation, Data Integration
-- **Tools & Platforms:** Jupyter Notebook, Google Colab, VS Code, AWS
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ajaya-kumar-pradhan- 1945341b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajaya-kumar-pradhan- 1945341b0" height="30" width="40" /></a>
+</p>
 
-📈 **Projects:**
-- **Airbnb Hotel Booking Analysis:** Optimized rental pricing strategies and increased occupancy rates by 10%.
-- **HDFC Bank Transaction Analysis & Customer Insights Dashboard:** Improved decision-making efficiency by 20%.
-- **FedEx Supply Chain Performance Analysis:** Enhanced logistics efficiency and reduced inventory costs by 12%.
-- **Amazon USA Sales Analysis Project:** Increased sales conversion rates by 20%.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-📫 **How to reach me:**
-- **Email:** [ajayapradhan210@gmail.com](mailto:ajayapradhan210@gmail.com)
-- **LinkedIn:** [Ajaya's LinkedIn](https://www.linkedin.com/in/ajaya210/)
-- **GitHub:** [Ajaya's GitHub](https://github.com/Ajaya210)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaya210&show_icons=true&locale=en&layout=compact" alt="ajaya210" /></p>
 
-📜 **Certificates:**
-- Full Stack Data Science and AI: Almabetter
-- Data Visualization: Empowering Business with Effective Insights: TATA
-- Remote Sensing and Digital Image Analysis: ISRO
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajaya210&show_icons=true&locale=en" alt="ajaya210" /></p>
 
-🌐 **Languages:**
-- English
-- Hindi
-
-Thanks for visiting my profile! 😊
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajaya210&" alt="ajaya210" /></p>
