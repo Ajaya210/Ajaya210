@@ -1,31 +1,35 @@
 ### Hi there, I'm Ajaya! 👋
 
 🌱 **About Me:**
-- 💻 Data Scientist and Data Analyst with over a year of experience in data visualization, business intelligence, and reporting.
+- 💻 Data Analyst and Data Scientist with hands-on experience in data modeling, business intelligence, and statistical analysis.
 - 🎓 Bachelor Degree in Economics (Honours) from Rajdhani College.
-- 🌐 Passionate about turning raw data into meaningful insights, improving reporting processes, and supporting data-driven decision-making.
+- 🌐 Passionate about leveraging data to drive business performance and support data-driven decision-making.
 
 🌟 **Skills:**
-- **Languages:** Python, SQL
-- **Databases:** MySQL, MongoDB, PostgreSQL
-- **Business Intelligence & Reporting:** Power BI (DAX, Power Query, Paginated Reports), Tableau, Excel (Advanced Functions, Pivot Tables)
-- **Data Analysis & ETL:** Pandas, NumPy, Matplotlib, Seaborn
-- **Tools & Technologies:** Git, Docker, Kubernetes, AWS
-- **Additional Skills:** Machine Learning, Web Scraping, SharePoint Integration
+- **Data Analysis & Machine Learning:** SQL, Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+- **Data Visualization:** Tableau, Power BI, Excel
+- **Database Management:** MySQL, PostgreSQL
+- **ETL & Data Processing:** Data Cleaning, Data Transformation, Data Integration
+- **Tools & Platforms:** Jupyter Notebook, Google Colab, VS Code, AWS
 
-📈 **GitHub Stats:**
-![Ajaya210's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajaya210&show_icons=true&theme=radical)
+📈 **Projects:**
+- **Airbnb Hotel Booking Analysis:** Optimized rental pricing strategies and increased occupancy rates by 10%.
+- **HDFC Bank Transaction Analysis & Customer Insights Dashboard:** Improved decision-making efficiency by 20%.
+- **FedEx Supply Chain Performance Analysis:** Enhanced logistics efficiency and reduced inventory costs by 12%.
+- **Amazon USA Sales Analysis Project:** Increased sales conversion rates by 20%.
 
 📫 **How to reach me:**
 - **Email:** [ajayapradhan210@gmail.com](mailto:ajayapradhan210@gmail.com)
 - **LinkedIn:** [Ajaya's LinkedIn](https://www.linkedin.com/in/ajaya210/)
 - **GitHub:** [Ajaya's GitHub](https://github.com/Ajaya210)
-- **Portfolio:** [Ajaya's Portfolio](#)
 
-🤝 **Let's Collaborate:**
-- Open to collaborating on interesting projects and contributing to open-source communities. Feel free to reach out if you have any exciting ideas or projects!
+📜 **Certificates:**
+- Full Stack Data Science and AI: Almabetter
+- Data Visualization: Empowering Business with Effective Insights: TATA
+- Remote Sensing and Digital Image Analysis: ISRO
 
-⚡ **Fun Fact:**
-- I'm a coffee enthusiast and love exploring new coffee shops in my city!
+🌐 **Languages:**
+- English
+- Hindi
 
 Thanks for visiting my profile! 😊
