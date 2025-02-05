@@ -13,6 +13,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaya210&show_icons=true&locale=en&layout=compact" alt="ajaya210" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajaya210&show_icons=true&locale=en" alt="ajaya210" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajaya210&" alt="ajaya210" /></p>
