@@ -1,17 +1,28 @@
-<h1 align="center">Hi 👋, I'm Ajaya Kumar Pradhan</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+### Hi there, I'm Ajaya! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaya210&label=Profile%20views&color=0e75b6&style=flat" alt="ajaya210" /> </p>
+🌱 **About Me:**
+- 💻 Passionate developer with a love for problem-solving and learning new technologies.
+- 🎓 Currently pursuing a degree in Computer Science.
+- 🌐 Interested in web development, machine learning, and open-source contributions.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+🌟 **Skills:**
+- **Languages:** Python, JavaScript, Java, C++
+- **Web Development:** HTML, CSS, React, Node.js, Express.js
+- **Databases:** MySQL, MongoDB
+- **Tools & Technologies:** Git, Docker, Kubernetes, AWS
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+📈 **GitHub Stats:**
+![Ajaya210's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajaya210&show_icons=true&theme=radical)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaya210&show_icons=true&locale=en&layout=compact" alt="ajaya210" /></p>
+📫 **How to reach me:**
+- **Email:** [ajaya@example.com](mailto:ajaya@example.com)
+- **LinkedIn:** [Ajaya's LinkedIn](https://www.linkedin.com/in/ajaya210/)
+- **Twitter:** [Ajaya's Twitter](https://twitter.com/Ajaya210)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajaya210&show_icons=true&locale=en" alt="ajaya210" /></p>
+🤝 **Let's Collaborate:**
+- Open to collaborating on interesting projects and contributing to open-source communities. Feel free to reach out if you have any exciting ideas or projects!
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajaya210&" alt="ajaya210" /></p>
+⚡ **Fun Fact:**
+- I'm a coffee enthusiast and love exploring new coffee shops in my city!
+
+Thanks for visiting my profile! 😊
